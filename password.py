@@ -1,0 +1,3 @@
+bankpassword = "jjjjjkyfrtyyyjhry"
+
+apikey = "nmnmnmgghtrrrr"
